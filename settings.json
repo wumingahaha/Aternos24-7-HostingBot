@@ -1,7 +1,7 @@
 {
-  "name": "Modern.SMP",
+  "name": "Modern_SMP",
   "bot-account": {
-    "username": "Modern.SMP",
+    "username": "Modern_SMP",
     "password": "",
     "type": "offline"
   },
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "/register ModernSMP",
-        "W server ngl",
-        "I am not gay"
+        "/register ModernSMP",
+        "W server"
       ]
     },
     "chat-log": true,
