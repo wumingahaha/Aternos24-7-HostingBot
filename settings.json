@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "/register ModernSMP",
+        "/login ModernSMP",
         "/register ModernSMP",
         "W server"
       ]
