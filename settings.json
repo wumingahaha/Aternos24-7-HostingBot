@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "/login ModernSMP",
+        "/register ModernSMP",
         "/register ModernSMP",
         "W server"
       ]
@@ -39,7 +39,7 @@
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 1,
-    "max-reconnect-delay": 100
+    "max-reconnect-delay": 3
   },
   "movement": {
     "enabled": true,
